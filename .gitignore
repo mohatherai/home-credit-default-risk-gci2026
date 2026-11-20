@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Competition data and outputs (do not upload)
+input/
+output/
+*.csv
+*.zip
